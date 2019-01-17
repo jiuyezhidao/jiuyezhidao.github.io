@@ -266,6 +266,10 @@ img.thumbnail {
 /* ---------------------------------
  *         Custom modifiers
  * --------------------------------- */
+.avatar {
+  height: 168px;
+  width: atuo;
+}
 .is-borderless {
   border: none;
 }
